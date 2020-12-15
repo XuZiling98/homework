@@ -1,0 +1,35 @@
+[
+    {
+        "file": "C:/Users/86173/Desktop/stat_comp/homework/StatComp20015/src/rw_MetropolisC.cpp",
+        "file_last_write": 1607955935.0,
+        "definitions": [
+            {
+                "usr": "c:@F@runifC#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "runifC(int)",
+                "file": "C:/Users/86173/Desktop/stat_comp/homework/StatComp20015/src/rw_MetropolisC.cpp",
+                "line": 19,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@rnormC#d#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "rnormC(double, double)",
+                "file": "C:/Users/86173/Desktop/stat_comp/homework/StatComp20015/src/rw_MetropolisC.cpp",
+                "line": 46,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@rw_MetropolisC#d#d#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "rw_MetropolisC(double, double, int)",
+                "file": "C:/Users/86173/Desktop/stat_comp/homework/StatComp20015/src/rw_MetropolisC.cpp",
+                "line": 89,
+                "column": 6
+            }
+        ]
+    }
+]
